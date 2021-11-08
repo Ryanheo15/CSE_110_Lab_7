@@ -1,3 +1,4 @@
 # Lab 7 - Starter Code
 
-https://github.com/Ryanheo15/CSE_110_Lab_7/settings/pages
+https://ryanheo15.github.io/CSE_110_Lab_7/
+

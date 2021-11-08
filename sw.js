@@ -10,7 +10,8 @@ self.addEventListener('install', function (event) {
    * Create a function as outlined above
    */
 
-  let cacheUrls = ['index.html', '/styles/main.css', '/scripts/main.js', '/scripts/Router.js']; 
+  let cacheUrls = ['index.html', '/styles/main.css', '/scripts/main.js', '/scripts/Router.js', '/assets/components/RecipeCard.js',
+  '/assets/components/RecipeExpand.js',]; 
 
   self.addEventListener('install', function (event) {
     // Perform install steps
